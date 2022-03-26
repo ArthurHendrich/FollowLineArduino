@@ -9,7 +9,7 @@ of the sensors as your program needs.
 
 
 Two variables have been declared for engine speeds.
- According to the curve you are going to make, to the left or right,
+According to the curve you are going to make, to the left or right,
 one of the engine speeds will be higher than the other precisely to compensate for the weight.
 
 
